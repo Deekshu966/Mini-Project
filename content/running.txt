@@ -1,0 +1,7 @@
+venv\scripts\activate
+cd .\parking
+python .\1.ImageProcessing.py
+python .\2.parkingspotcoordinate.py
+python .\3.emptyparkingspotdetectionmodel.py
+python .\4.emptyparkingspotdetection.py
+
